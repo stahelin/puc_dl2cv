@@ -1,5 +1,5 @@
 # Advanced Deep Learning for Image Analysis - PUC-Rio
-Este repositório contém os materiais e modelos desenvolvidos para a disciplina "Advanced Deep Learning for Image Analysis" da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). O curso foca em técnicas avançadas de aprendizado profundo, com ênfase na análise de imagens e dados de séries temporais.
+Este repositório contém os materiais e modelos desenvolvidos para a disciplina "Advanced Deep Learning for Image Analysis" da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). O curso foca em técnicas avançadas de aprendizado profundo, com ênfase na análise de imagens.
 
 ## Dataset OSCAR L4 OC third-deg
 O projeto utiliza o conjunto de dados "OSCAR L4 OC third-deg", uma base global de correntes superficiais oceânicas do projeto "Ocean Surface Current Analyses Real-time (OSCAR)", financiado pela NASA. Esta base de dados oferece informações cruciais sobre as velocidades da camada mista da superfície do oceano, fundamentais para a compreensão das dinâmicas oceânicas. Os dados estão disponíveis em três níveis de qualidade: final, provisório e quase em tempo real (nrt), em arquivos diários no formato NetCDF.
